@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Aplicacion {
 
     public static void main(String[] args) {
+        //DECLARACION DE VARIABLES
         String nomcli, nompro1, nompro2;
         double precio1, precio2, dscto1, dscto2, precio, subtot1, subtot2, preciofinal;
         int cant1, cant2;
